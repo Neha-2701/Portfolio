@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<h1 align="center">
+  Portfolio
+</h1>
+# Description:
+
+### Portfolio is build using Web Technologies such as Tailwind CSS, HTML.
+### It is an Application of React
+### Some features of this project are -
+- A webpage showcasing my experience and skills
+- getFrom is used to store every response from contact us of portfolio.
+- Cool animations are used for redirecting to my personal linkedIn, Github Account.
+- Options to download my resume on single click
+- Fully responsive website 
+
+
+# 🚀 Technical Stack:
+
+## Frontend:
+
+- IDE: VScode
+- Framework: Tailwind CSS, React
+
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React 
+App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
