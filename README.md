@@ -24,7 +24,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - IDE: VScode
 - Framework: Tailwind CSS, React
 
+# 🚀 Screenshots:
 
+-   Home page 
+   ![Screenshot of My App](src/assets/ss1.png)
+
+- Experience page
+  ![Screenshot of My App](src/assets/ss2.png)
+
+  - Mobile view Home page
+  ![Screenshot of My App](src/assets/ss3.png)
+
+# 🚀 Deployed Link:
+https://enchanting-entremet-c14c20.netlify.app/
 
 # Getting Started with Create React App
 
